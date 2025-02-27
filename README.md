@@ -2,9 +2,7 @@
 
 **Датасет**: (https://www.kaggle.com/datasets/rabieelkharoua/cancer-prediction-dataset)  
 **Модель**: RandomForest  
-
-**Результаты модели**
-## Cross-Validation Results (Random Forest)
+## Cross-Validation Results
 
 
 | **Metric**                       | **Value**               | **Standard Deviation** |
